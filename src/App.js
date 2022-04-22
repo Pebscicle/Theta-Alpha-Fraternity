@@ -14,6 +14,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <Navbar></Navbar>
+        <Navbar></Navbar>
         <Spacing height="14"/>
         <h1 className="no-margin">ΘΑ</h1>
         <h2 className="no-margin">
