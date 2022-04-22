@@ -8,6 +8,8 @@
   position:absolute;
 }
 
+/*TEST*/
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin 1 3s linear;
