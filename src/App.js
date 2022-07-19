@@ -6,6 +6,8 @@ import 'aos/dist/aos.css';
 /*END OF LIBRARIES*/
 import Spacing from './Components/Spacing';
 import Navbar from './Components/Navbar';
+import About from './Components/About';
+import Calendar from './Components/Calendar';
 
 
 function App() {
@@ -32,62 +34,8 @@ function App() {
         <p data-aos="fade-down"
         data-aos-duration="750">
           Honor, Brotherhood, Scholarship</p>
-        <p data-aos="fade-in-out" data-aos-duration="750">
-        LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM.
-        LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM.
-        LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM.
-        LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM.
-        LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM.
-        </p>
-        <p data-aos="fade-in-out" data-aos-duration="750">
-        LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM.
-        LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM.
-        LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM.
-        LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM.
-        LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM.
-        </p>
-        <p data-aos="fade-in-out" data-aos-duration="750">
-        LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM.
-        LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM.
-        LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM.
-        LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM.
-        LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM.
-        </p>
-        <p data-aos="fade-in-out" data-aos-duration="750">
-        LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM.
-        LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM.
-        LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM.
-        LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM.
-        LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM.
-        </p>
-        <p data-aos="fade-in-out" data-aos-duration="750">
-        LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM.
-        LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM.
-        LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM.
-        LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM.
-        LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM.
-        </p>
-        <p data-aos="fade-in-out" data-aos-duration="750">
-        LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM.
-        LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM.
-        LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM.
-        LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM.
-        LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM.
-        </p>
-        <p data-aos="fade-in-out" data-aos-duration="750">
-        LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM.
-        LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM.
-        LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM.
-        LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM.
-        LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM.
-        </p>
-        <p data-aos="fade-in-out" data-aos-duration="750">
-        LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM.
-        LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM.
-        LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM.
-        LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM.
-        LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM.
-        </p>
+        <About/>
+        <Calendar/>
       </div>
     </div>
   );

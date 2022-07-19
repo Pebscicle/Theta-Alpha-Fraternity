@@ -11,7 +11,7 @@
 }
 
 .navbar-item:hover{
-    animation: highlightItem 0.9s 1;
+    animation: highlightItem 0.5s 1;
     cursor:pointer;
     /*animation: animationReference Duration Iterations*/
  }
