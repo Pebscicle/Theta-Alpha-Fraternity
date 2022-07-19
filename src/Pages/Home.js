@@ -21,7 +21,7 @@ const Home = () => {
       </header><div id="about">
 
         <p data-aos="fade-down"
-          data-aos-duration="750" style="text-align:center">
+          data-aos-duration="750" style={{textAlign: 'center'}}>
           Honor, Brotherhood, Scholarship</p>
         <About />
         </div>
