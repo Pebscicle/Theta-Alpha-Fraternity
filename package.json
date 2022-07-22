@@ -1,8 +1,8 @@
 {
   "name": "thetaalphasociety",
   "version": "0.1.0",
+  "homepage": "https://Pebscicle.github.io/Theta-Alpha-Fraternity",
   "private": true,
-  "homepage": "https://pebscicle.github.io",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.16.2",
@@ -11,7 +11,6 @@
     "animate.css": "^4.1.1",
     "aos": "^2.3.4",
     "gh": "^2.8.9",
-    "gh-pages": "^4.0.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "^5.0.0",
@@ -24,7 +23,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-"deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -45,6 +44,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^4.0.0",
     "react-router-dom": "^6.3.0"
   }
 }
