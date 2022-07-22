@@ -1,4 +1,3 @@
-import logo from './img/thetaalphastaglogotemp.jpg';
 import './css/App.css';
 /*LIBRARIES*/
 import AOS from 'aos';

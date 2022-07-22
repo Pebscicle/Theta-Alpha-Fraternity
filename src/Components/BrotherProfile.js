@@ -7,7 +7,7 @@ let mrg = "";
 
 const BrotherProfile = (obj) =>
 {
-    if(obj.brother.key%2==0)
+    if(obj.brother.key%2===0)
     {
         fadeIn = "fade-right";
         mrg = "0 auto 0 10vw";
