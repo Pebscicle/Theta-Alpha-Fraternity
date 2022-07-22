@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c652abc7.css",
+    "main.js": "/static/js/main.54c75156.js",
+    "static/js/787.9efa5c21.chunk.js": "/static/js/787.9efa5c21.chunk.js",
+    "static/media/stag.jpg": "/static/media/stag.6004b3c99dab98ee5f13.jpg",
+    "static/media/thetaalphastaglogotemp.jpg": "/static/media/thetaalphastaglogotemp.019e33477d16cf4181ca.jpg",
+    "index.html": "/index.html",
+    "main.c652abc7.css.map": "/static/css/main.c652abc7.css.map",
+    "main.54c75156.js.map": "/static/js/main.54c75156.js.map",
+    "787.9efa5c21.chunk.js.map": "/static/js/787.9efa5c21.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c652abc7.css",
+    "static/js/main.54c75156.js"
+  ]
+}
