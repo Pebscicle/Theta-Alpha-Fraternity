@@ -7,8 +7,9 @@ const Home = () => {
       <header className="App-title">
         <Spacing height="14" />
         <h1 className="no-margin">ΘΑ</h1>
-        <h2 className="no-margin">
-          Theta Alpha<br />
+        <h2 className="no-margin" style={{textAlign:"center",}}>
+          Theta Alpha
+          <br/>
           Scottish Fraternity
         </h2>
         <Spacing height="1" />
