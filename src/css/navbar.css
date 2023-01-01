@@ -29,3 +29,17 @@
      /*display:none;*/
      position:absolute;
  }
+
+ @media (max-width: 480px) {
+    .navbar-items {
+      display: none;
+    }
+  }
+
+  @media (min-width: 480px) {
+    .navbar-items {
+        flex-direction:row;
+        justify-content: space-evenly;
+        display: flex;
+    }
+  }

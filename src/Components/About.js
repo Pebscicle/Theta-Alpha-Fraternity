@@ -8,8 +8,7 @@ function About()
 <div>
     <ParagraphBox paragraph="
         We are Theta Alpha, a grassroots Fraternity which currently operates at the University of Stirling.
-        Founded in 2017, our organisation is currently the sole existing University Fraternity in Scotland,
-        and since its inception has consistently striven to provide a unique and fulfilling experience for each
+        Founded in 2017, our organisation is currently the sole existing university fraternity in Scotland. Since its inception Theta Alpha has consistently striven to provide a unique and fulfilling experience for each
         of our Brothers. There are three values which we wish to instil in our membership - Honour,
         Brotherhood & Scholarship - each of these values holds a core place in the work that we do, and in
         the direction that we want to take our organisation.
